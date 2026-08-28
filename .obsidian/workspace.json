@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "bc0ae8c91fd36672",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e084dc865e954d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb2c46b3dbf05c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week 1/24-8-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24-8-2026"
+            }
+          },
+          {
+            "id": "67a097b4dde7b740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week 1/26-8-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26-8-26"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6030690c806c055",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd0f765126d96ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7249c48b82775e09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "8792410b79457d2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "49db4f0d8157fb4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "cdeb9255ea931337",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d433717acc0e62a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7436cf3d6c5482a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week 1/25-8-2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "979ac7ca91eb2c68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week 1/25-8-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "29014af2542a45dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "cfdbe94465ad6458",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "36b5b4aa9ddc56d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week 1/25-8-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
+    }
+  },
+  "active": "67a097b4dde7b740",
+  "lastOpenFiles": [
+    "week 1/25-8-2026.md",
+    "week 1/24-8-2026.md",
+    "week 1/26-8-26.md",
+    "week 1",
+    "Welkom.md"
+  ]
+}
