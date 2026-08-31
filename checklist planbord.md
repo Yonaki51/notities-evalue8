@@ -5,10 +5,10 @@
 	- [x] Fase 1 Voorbereiding veranderen naar Fase 1 - Hardware  
 	- [x] Invoicing naar Fase 5 - Facturering  
 	- [x] validation lijkt kapot bij email templates  
-- [ ] toevoegen van een installateur  
-	- [x] nieuwe pagina maken waar we een installateur kunnen toevoegen  
-		- [ ] naam
-		- [ ] email
+- [x] toevoegen van een installateur  
+	- [ ] nieuwe pagina maken waar we een installateur kunnen toevoegen  
+		- [x] naam
+		- [x] email
 - [ ] integratiepartners voor DS en QM  
 	- [ ] nieuwe pagina maken waar we een integratiepartner kunnen toevoegen  
 		- [ ] naam  
