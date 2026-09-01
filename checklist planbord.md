@@ -1,4 +1,4 @@
-
+ 
 ## de tekstuele aanpassingen: Fase 0 - Orderinformatie optimaliseren  
 - [x] Tab Orderinformatie veranderen naar Fase 0 - Orderinformatie
 	- [x] Bij de overige fases koppelstreepje tussen fase en cijfer weghalen.  
@@ -14,6 +14,8 @@
 		- [ ] naam  
 		- [ ] email  
 - [ ] de klikbare variabelen bij het aanpassen van een template fixen; die lijken nu kapot te zijn.  
+- [ ] internet en integration providers folder verplaatsen naar plaboard/configurator.
+	- [ ] in de controller de views aanpassen
   
   
 - [ ] Fase 0 - Orderinformatie  
