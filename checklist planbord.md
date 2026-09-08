@@ -33,21 +33,24 @@
 		- [x] visuele bevestiging dat de pagina is opgeslagen.
  
 # Bugs
-- [ ] na lange tijd inactiviteit wordt pagina een blanco wit scherm en moet je terug naar https://portal.evalue8.local/ en opnieuw inloggen
+## portal
 - [x] phase 0 - order information select boxes slaan op bij on blur.
 - [x] phase 4 email sturen met incorrecte data zorgt voor error
+- [x] phase 1 hardware website lijkt kapot te zijn. (==alleen bij al afgeronde orders?==)
+- [ ] freshdesk update contact zonder iets in te vullen geeft error (validation en if-statement in de controller zetten)
+- [ ] freshdesk "delete selected"  kan niet gebruikt worden. (ik ben blind. maak dit duidelijker.)
 - [ ] Een maand kiezen in een agenda werkt niet
-- [ ] geen knop om een project op te slaan?
-- [ ] controller selecteren bij het bewerken  van labeladmins laat php documentatie zien.
-- [ ] user aanmaken lukt wel bij user management, maar laat wel een error zien. Ook bij Deleten
-- [ ] de log-in knop bij users laat niet gewoon "inloggen" zien.  lijkt code te displayen.
-- [ ] naar de groups sectie gaan in user management opent een nieuw tablad
-- [ ] freshdesk update contact zonder iets in te vullen geeft error
-- [ ] freshdesk "delete selected"  kan niet gebruikt worden.
-- [ ] phase 1 hardware website lijkt kapot te zijn. (==alleen bij al afgeronde orders?==)
+## core
+- [x] na lange tijd inactiviteit wordt pagina een blanco wit scherm en moet je terug naar https://portal.evalue8.local/ en opnieuw inloggen
+- [x] de log-in knop bij users laat niet gewoon "inloggen" zien.  (missing translation.)
+- [x] user management add user: resend verification mail is kale html op de pagina
+- [ ] je kan save meerdere keren achter elkaar klikken
+- [ ] Connection could not be established with host "mailhog:1025": stream_socket_client(): php_network_getaddresses: getaddrinfo for mailhog failed: Name or service not known
+- [ ] ~~controller selecteren bij het bewerken  van labeladmins laat php documentatie zien.~~
+- [ ] ~~naar de groups sectie gaan in user management opent een nieuw tablad~
 
 
 # nieuwe functionaliteiten na testen.
 - [x] config maken voor het aanpassen van het "opslaan" van de input boxes op de phase 0 page.
-- [ ] Op die pagina met setups hoort een knop te staan zodat er een e-mail (vanuit sjabloon) verstuurd kan worden. (Send support installation mail)
-
+- [ ] Op de pagina met setups hoort een knop te staan zodat er een e-mail (vanuit sjabloon) verstuurd kan worden. (Send support installation mail)
+- [ ] fases op planbord pagina gelijktrekken met de bestandnamen van de code.
