@@ -44,11 +44,13 @@
 - [x] na lange tijd inactiviteit wordt pagina een blanco wit scherm en moet je terug naar https://portal.evalue8.local/ en opnieuw inloggen
 - [x] de log-in knop bij users laat niet gewoon "inloggen" zien.  (missing translation.)
 - [x] user management add user: resend verification mail is kale html op de pagina
-- [ ] je kan save meerdere keren achter elkaar klikken
+- [x] je kan save meerdere keren achter elkaar klikken
 - [ ] Connection could not be established with host "mailhog:1025": stream_socket_client(): php_network_getaddresses: getaddrinfo for mailhog failed: Name or service not known
 - [ ] ~~controller selecteren bij het bewerken  van labeladmins laat php documentatie zien.~~
 - [ ] ~~naar de groups sectie gaan in user management opent een nieuw tablad~
 
+support@evalue8.nl
+wachtwoord123
 
 # nieuwe functionaliteiten na testen.
 - [x] config maken voor het aanpassen van het "opslaan" van de input boxes op de phase 0 page.

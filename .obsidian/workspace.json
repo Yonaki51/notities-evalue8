@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week 3/2026-09-08.md",
+                "file": "Bug Findings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-08"
+              "title": "Bug Findings"
             }
           }
         ]
@@ -192,6 +192,7 @@
   "active": "5b73bdfb3bd1f0b2",
   "lastOpenFiles": [
     "Checklist planbord.md",
+    "Bug Findings.md",
     "week 3/2026-09-08.md",
     "Stappenplan nieuw laravel bestand.md",
     "week 3/2026-09-07.md",
