@@ -40,6 +40,7 @@
 - [ ] freshdesk update contact zonder iets in te vullen geeft error (validation en if-statement in de controller zetten)
 - [ ] freshdesk "delete selected"  kan niet gebruikt worden. (ik ben blind. maak dit duidelijker.)
 - [ ] Een maand kiezen in een agenda werkt niet
+- [ ] Een bijlage toevoegen geeft een error.
 ## core
 - [x] na lange tijd inactiviteit wordt pagina een blanco wit scherm en moet je terug naar https://portal.evalue8.local/ en opnieuw inloggen
 - [x] de log-in knop bij users laat niet gewoon "inloggen" zien.  (missing translation.)
@@ -48,6 +49,7 @@
 - [ ] Connection could not be established with host "mailhog:1025": stream_socket_client(): php_network_getaddresses: getaddrinfo for mailhog failed: Name or service not known
 - [ ] ~~controller selecteren bij het bewerken  van labeladmins laat php documentatie zien.~~
 - [ ] ~~naar de groups sectie gaan in user management opent een nieuw tablad~
+- [ ] e.preventdefault() doet niks.![[Pasted image 20260915163643.png]]
 
 support@evalue8.nl
 wachtwoord123
