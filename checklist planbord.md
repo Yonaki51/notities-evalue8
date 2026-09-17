@@ -41,6 +41,15 @@
 - [ ] freshdesk "delete selected"  kan niet gebruikt worden. (ik ben blind. maak dit duidelijker.)
 - [ ] Een maand kiezen in een agenda werkt niet
 - [ ] Een bijlage toevoegen geeft een error.
+
+
+  > Discuss local Caddy/Laravel proxy configuration with colleagues.
+  >
+  > Uploads failed because Laravel didn’t recognize the original HTTPS connection when validating signed upload URLs. Adding trusted-proxy configuration fixed this.
+  >
+  > Review whether to restrict TRUSTED_PROXIES=REMOTE_ADDR to Caddy specifically, or configure HTTPS between Caddy and the application server.
+  >
+  > Keep Livewire’s temporary upload disk set to 'local'—that fixes the separate S3 multiple-file upload issue.
 ## core
 - [x] na lange tijd inactiviteit wordt pagina een blanco wit scherm en moet je terug naar https://portal.evalue8.local/ en opnieuw inloggen
 - [x] de log-in knop bij users laat niet gewoon "inloggen" zien.  (missing translation.)
@@ -58,3 +67,13 @@ wachtwoord123
 - [x] config maken voor het aanpassen van het "opslaan" van de input boxes op de phase 0 page.
 - [ ] Op de pagina met setups hoort een knop te staan zodat er een e-mail (vanuit sjabloon) verstuurd kan worden. (Send support installation mail)
 - [ ] fases op planbord pagina gelijktrekken met de bestandnamen van de code.
+
+
+
+**moeten alle artikelen in de mail erbij?**
+Dit staat er nu in de mail (moet dit nog een table opmaak krijgen?)
+{"id":3,"created_at":"07\/09\/2026 10:36:09","updated_at":"07\/09\/2026 10:36:11","project_id":2,"name":"beatae reprehenderit","player_linked_to_cms":false,"subscription_linked_to_player":false,"vpn_ip":"172.24.80.157","internetprovider":"Conroy, Cartwright and Nicolas","certificate":null,"player_name":"Player-3","location_name":"Location 3","network":"Unknown","static_ip":"10.125.85.36","static_subnetmask":"172.29.77.60","static_gateway":null,"static_dns1":"93.232.196.173","static_dns2":null,"comment":null,"player_ready_to_send":false,"playlist_created":false,"playlist_planned_on_player":false,"entered_vpn_vnc_info":false,"windows_license":false,"serial":null}
+
+**moet de mail knop in fase 4 weg? omdat dit nu dezelfde wordt als op de hardware tab**
+Moeten de setup attachments ook toegevoegd worden aan de mail?
+
