@@ -37,10 +37,10 @@
 - [x] fases op planbord pagina gelijktrekken met de bestandnamen van de code.
 
 ## aanpassen emailtemplate
-- [ ] Nieuwe clickable variable aanmaken genaamd "setuparticles". gebruik hard coded data
-	- [ ] eerst kijken hoe de setup  clickable variable werkt.
-- [ ] Kijken hoe de mapped variables werken. 
-	- [ ] daarna inserten in email template (ook evt hardcoded data gebruiken.)
+- [x] Nieuwe clickable variable aanmaken genaamd "setuparticles". gebruik hard coded data
+	- [x] eerst kijken hoe de setup  clickable variable werkt.
+- [x] Kijken hoe de mapped variables werken. 
+	- [x] daarna inserten in email template (ook evt hardcoded data gebruiken.)
 - [ ] Kijken hoe de database queries worden opgebouwd.
 - [ ] database data als vardump in de mailmodal krijgen.
 - [ ] opmaak voor de vardump. omzetten naar html.
