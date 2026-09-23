@@ -41,6 +41,14 @@
 	- [x] eerst kijken hoe de setup  clickable variable werkt.
 - [x] Kijken hoe de mapped variables werken. 
 	- [x] daarna inserten in email template (ook evt hardcoded data gebruiken.)
-- [ ] Kijken hoe de database queries worden opgebouwd.
-- [ ] database data als vardump in de mailmodal krijgen.
-- [ ] opmaak voor de vardump. omzetten naar html.
+- [x] Kijken hoe de database queries worden opgebouwd.
+- [x] oefenen met tabel layouts.
+- [x] database data als vardump in de mailmodal krijgen.
+- [x] opmaak voor de vardump. omzetten naar html.
+- [x] gebruikte bestanden opschonen
+- [ ] styling toevoegen? (en op welke manier)
+
+
+## planboard configurator
+- [x] @can toevoegen bij knoppen die het nog niet hebben (die niet disabled zijn)
+- [x] ervoor zorgen dat de "send support installation mail" knop altijd zichtbaar bljjft. Niet alleen als queue management is aangevinkt.

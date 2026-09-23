@@ -6,3 +6,4 @@
 - [ ] ~~controller selecteren bij het bewerken  van labeladmins laat php documentatie zien.~~
 - [ ] ~~naar de groups sectie gaan in user management opent een nieuw tablad~
 - [ ] e.preventdefault() doet niks.![[Pasted image 20260915163643.png]]
+- [ ]  een user aanmaken zonder een activatiemail te sturen geeft een bad request. ^403e3a
