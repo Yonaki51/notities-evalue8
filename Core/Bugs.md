@@ -7,3 +7,4 @@
 - [ ] ~~naar de groups sectie gaan in user management opent een nieuw tablad~
 - [ ] e.preventdefault() doet niks.![[Pasted image 20260915163643.png]]
 - [ ]  een user aanmaken zonder een activatiemail te sturen geeft een bad request. ^403e3a
+- [ ] de geheime xrcv waarde bij een wachtwoord is veranderbaar, waardoor je zwakke wachtwoorden kan opslaan.

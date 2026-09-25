@@ -52,3 +52,4 @@
 ## planboard configurator
 - [x] @can toevoegen bij knoppen die het nog niet hebben (die niet disabled zijn)
 - [x] ervoor zorgen dat de "send support installation mail" knop altijd zichtbaar bljjft. Niet alleen als queue management is aangevinkt.
+
