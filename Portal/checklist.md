@@ -31,11 +31,6 @@
 		- [ ] Netwerk gegevens bekend: Ja/Nee -> Nee zorgt voor snippets
 		- [x] visuele bevestiging dat de pagina is opgeslagen.
 
-## Nieuwe functionaliteiten na bugfixes
-- [x] config maken voor het aanpassen van het "opslaan" van de input boxes op de phase 0 page.
-- [x] Op de pagina met setups hoort een knop te staan zodat er een e-mail (vanuit sjabloon) verstuurd kan worden. (Send support installation mail)
-- [x] fases op planbord pagina gelijktrekken met de bestandnamen van de code.
-
 ## aanpassen emailtemplate
 - [x] Nieuwe clickable variable aanmaken genaamd "setuparticles". gebruik hard coded data
 	- [x] eerst kijken hoe de setup  clickable variable werkt.
@@ -52,4 +47,19 @@
 ## planboard configurator
 - [x] @can toevoegen bij knoppen die het nog niet hebben (die niet disabled zijn)
 - [x] ervoor zorgen dat de "send support installation mail" knop altijd zichtbaar bljjft. Niet alleen als queue management is aangevinkt.
+
+## planboard nieuwe functionaliteiten (snippets)
+- [ ] Het toevoegen van snippets op de pagina van fase 0 - orderinformatie.
+	- Deze snippets gaan lijken op de clickable variables van de mailtemplates pagina
+	- [ ] dropdown "installatie evalue8" toevoegen. Bij "ja" worden de andere dropdowns weergegeven.
+	- [ ] clickable variables maken voor de snippets
+	- [ ] clickable variables toevoegen aan app/Livewire/Planboard/Component/ModalEmailTemplateComponent.php. Zelfde principe als setupArticles. 
+		- render maken van een html, waar de if's komen voor de snippets
+
+
+
+
+refactor website
+	haal de debounce eruit
+	maak het minder bloated
 
