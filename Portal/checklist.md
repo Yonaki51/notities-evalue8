@@ -1,4 +1,4 @@
-## de tekstuele aanpassingen: Fase 0 - Orderinformatie optimaliseren  
+## de tekstuele aanpassingen: Fase 0 - Orderinformatie optimaliseren 
 - [x] Tab Orderinformatie veranderen naar Fase 0 - Orderinformatie
 	- [x] Bij de overige fases koppelstreepje tussen fase en cijfer weghalen.  
 	- [x] Fase 1 Voorbereiding veranderen naar Fase 1 - Hardware  
@@ -41,7 +41,7 @@
 - [x] database data als vardump in de mailmodal krijgen.
 - [x] opmaak voor de vardump. omzetten naar html.
 - [x] gebruikte bestanden opschonen
-- [ ] styling toevoegen? (en op welke manier)
+- [x] styling toevoegen? (en op welke manier)
 
 
 ## planboard configurator
