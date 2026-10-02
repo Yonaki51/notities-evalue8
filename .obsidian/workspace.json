@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/2026-10-1.md",
+                "file": "Week 6/2026-10-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-1"
+              "title": "2026-10-02"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "0a094c24cd44ec25",
   "lastOpenFiles": [
+    "Week 6/2026-10-01.md",
+    "Week 6/2026-10-02.md",
     "Portal/checklist.md",
-    "Week 6/2026-10-1.md",
     "Week 6/2026-09-30.md",
     "Portal/Bugs.md",
     "Portal/Portal.md",
@@ -225,7 +226,6 @@
     "Week 3/2026-09-07.md",
     "Week 4",
     "week 3/Naamloos",
-    "Week 3/2026-09-11.md",
     "Week 3",
     "Pasted image 20260902105413.png",
     "Naamloos.canvas",
