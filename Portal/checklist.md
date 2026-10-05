@@ -14,6 +14,9 @@
 	- koppeling 
 - [ ] nieuwe pagina toevoegen in planboard configurator on snippets te beheren
 	- [ ] tabel maken met de elementen die in de migration zitten
+		- [ ] translations maken voor de tabel
+	- [ ] @can maken voor de pagina
+	- [ ] translations maken voor de knop
 
 
 
