@@ -8,22 +8,27 @@
 		- [x] render maken van een html, waar de if's komen voor de snippets
 
 ## snippets part 2 electric boogaloo (helemaal klote D:)
-- [ ] migration maken met de volgende dingen
+- [x] migration maken met de volgende dingen
 	- snippet naam
 	- inhoud
 	- koppeling 
-- [ ] nieuwe pagina toevoegen in planboard configurator on snippets te beheren
-	- [ ] tabel maken met de elementen die in de migration zitten
-		- [ ] translations maken voor de tabel
-	- [ ] @can maken voor de pagina
-	- [ ] translations maken voor de knop
+- [x] nieuwe pagina toevoegen in planboard configurator on snippets te beheren
+	- [x] tabel maken met de elementen die in de migration zitten
+		- [x] translations maken voor de tabel
+	- [x] @can maken voor de pagina
+	- [x] translations maken voor de knop
+
+## Portal Episode 3: Revenge of the snippets
+- [x] Zorg dat de snippets ingeladen worden vanuit de database naar de email
+- **keuze tussen twee (of meer) opties**
+	- laad alle snippets in de blade pagina en kies dan welke weergegeven moeten worden.
+	- laad de snippets die gekozen zijn van tevoren in op de livewire pagina en stuur deze mee naar de blade pagina.
 
 
 
 
-
-refactor website
-	haal de debounce eruit
-	maak het minder bloated
-
+## feedback
+- [x] fragmenten veranderen naar snippets
+- [ ] ~~switch case voor allemaal if-statements?~~
+- [ ] "selecteer optie" weghalen en als default op nee zetten.
 
