@@ -27,8 +27,31 @@
 
 
 
-## feedback
-- [x] fragmenten veranderen naar snippets
-- [ ] ~~switch case voor allemaal if-statements?~~
-- [ ] "selecteer optie" weghalen en als default op nee zetten.
 
+## project log bugfixes
+- [x] toevoegen/verwijderen van een artikel aan een setup zorgt niet voor een save notification
+- toevoegen van seeders met fake data gaat niet helemaal lekker.
+- in de project logs moet kijken of we de nieuwste records eerst tonen
+	- dus eerst kijken hoe de json file wordt uitgelezen en hoe we dit kunnen filteren
+- sowieso moet er nog de nieuwe table component geset worden voor de project log
+- kijken welke inputs er niet gelogd worden (effe in codex gooien om te kijken waar hij mee komt)
+	- It does not appear to include: <- dit had ik effe snel in codex gegooit, maar moet dus nog even dubbel gechecked worden
+		- articles added to or removed from setups;
+		- attachments;
+		- Freshdesk ticket records;
+		- sent emails;
+		- other related records without an observer.
+		
+	- ### Concurrent writes can lose entries
+		Every observer currently performs:
+
+		1. Read the entire JSON file.
+		2. Append entries in PHP.
+		3. Write the entire JSON file back.
+
+		There is no file lock. Two simultaneous autosave requests can both read the same old file, append their own change, and overwrite each other. The last write wins.
+		Because the interface now autosaves many inputs, concurrent requests are realistic.
+		
+		Dit is de reden dat we eigenlijk de logs in de database willen opslaan omdat we hier dan geen last meer van hebben. Aangezien elke wijziging dus gelijk saved, kan wat hierboven staan dus wel voorkomen. (Als je meer wil weten vraag het even aan codex waarom dit gebeurt en wat we eraan kunnen doen)		
+		
+		- uitzoeken hoe we de logs kunnen opslaan in de database inplaats van een json file
