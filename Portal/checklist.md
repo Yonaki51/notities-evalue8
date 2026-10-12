@@ -30,8 +30,8 @@
 
 ## project log bugfixes
 - [x] toevoegen/verwijderen van een artikel aan een setup zorgt niet voor een save notification
-- toevoegen van seeders met fake data gaat niet helemaal lekker.
-- in de project logs moet kijken of we de nieuwste records eerst tonen
+- [x] toevoegen van seeders met fake data gaat niet helemaal lekker.
+- [x] in de project logs moet kijken of we de nieuwste records eerst tonen
 	- dus eerst kijken hoe de json file wordt uitgelezen en hoe we dit kunnen filteren
 - sowieso moet er nog de nieuwe table component geset worden voor de project log
 - kijken welke inputs er niet gelogd worden (effe in codex gooien om te kijken waar hij mee komt)
