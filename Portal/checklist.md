@@ -33,7 +33,7 @@
 - [x] toevoegen van seeders met fake data gaat niet helemaal lekker.
 - [x] in de project logs moet kijken of we de nieuwste records eerst tonen
 	- dus eerst kijken hoe de json file wordt uitgelezen en hoe we dit kunnen filteren
-- sowieso moet er nog de nieuwe table component geset worden voor de project log
+- sowieso moet er nog de nieuwe table component geset worden voor de project log (core issue)
 - kijken welke inputs er niet gelogd worden (effe in codex gooien om te kijken waar hij mee komt)
 	- It does not appear to include: <- dit had ik effe snel in codex gegooit, maar moet dus nog even dubbel gechecked worden
 		- articles added to or removed from setups;
