@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week 9/2026-10-21.md",
+                "file": "week 9/2026-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-21"
+              "title": "2026-10-22"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "0a094c24cd44ec25",
   "lastOpenFiles": [
-    "week 9/2026-10-20.md",
     "week 9/2026-10-21.md",
+    "week 9/2026-10-22.md",
+    "week 9/2026-10-20.md",
     "week 9/2026-10-19.md",
     "plan-livewire.md",
     "Stappenplan nieuw laravel bestand.md",
@@ -223,7 +224,6 @@
     "Week 6/2026-09-28.md",
     "Week 5/2026-09-25.md",
     "Week 6",
-    "Core/Bugs.md",
     "Week 5",
     "Core",
     "Leerwerkplan Software Developer.pdf",
