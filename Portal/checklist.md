@@ -55,3 +55,5 @@
 		Dit is de reden dat we eigenlijk de logs in de database willen opslaan omdat we hier dan geen last meer van hebben. Aangezien elke wijziging dus gelijk saved, kan wat hierboven staan dus wel voorkomen. (Als je meer wil weten vraag het even aan codex waarom dit gebeurt en wat we eraan kunnen doen)		
 		
 		- uitzoeken hoe we de logs kunnen opslaan in de database inplaats van een json file
+## opmerkingen
+freshdesk knop die verborgen is tenzij je een freshdesk ticket hebt
