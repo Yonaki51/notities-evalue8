@@ -57,3 +57,8 @@
 		- uitzoeken hoe we de logs kunnen opslaan in de database inplaats van een json file
 ## opmerkingen
 freshdesk knop die verborgen is tenzij je een freshdesk ticket hebt
+
+
+## removing livewire
+op fase 0, de contact information table wel met livewire doen.
+op fase 1, setup gedeelte met livewire, de rest waarshcijnlijk niet? (kijken hoe dit opgeslagen wordt.)
