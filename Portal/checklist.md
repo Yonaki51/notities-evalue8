@@ -62,3 +62,5 @@ freshdesk knop die verborgen is tenzij je een freshdesk ticket hebt
 ## removing livewire
 op fase 0, de contact information table wel met livewire doen.
 op fase 1, setup gedeelte met livewire, de rest waarshcijnlijk niet? (kijken hoe dit opgeslagen wordt.)
+
+misschien de error laten vertellen op welke pagina er iets nog niet is ingevuld?
